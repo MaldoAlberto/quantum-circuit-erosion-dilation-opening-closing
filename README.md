@@ -9,5 +9,5 @@ Times in experiments 1,2 and 3:
 
 ![alt text](Data-analyst/exp2_erosion_dilatacion_comparativa/exp2_IteracionesxTiempo_erosion-dilatacion.png "exp2")
 
-![alt text](Data-analyst/exp3_apertura_clausura_comparativaIteracionesxTiempo.png "exp3")
+![alt text](Data-analyst/exp3_apertura-clausura_comparativa/IteracionesxTiempo.png "exp3")
 
